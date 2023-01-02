@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Spazio Ge.Ge.</title>
-    <link href="https://associazionegege.github.io/feed.xml" rel="self" />
-    <link href="https://associazionegege.github.io" />
+    <link href="https://associazionegege.github.io/associazionegege/feed.xml" rel="self" />
+    <link href="https://associazionegege.github.io/associazionegege" />
     <updated>2023-01-02T21:51:35+01:00</updated>
     <author>
         <name>Associazione Ge.Ge.</name>
     </author>
-    <id>https://associazionegege.github.io</id>
+    <id>https://associazionegege.github.io/associazionegege</id>
 
     <entry>
         <title>Spazio GE.GE.</title>
         <author>
             <name>Associazione Ge.Ge.</name>
         </author>
-        <link href="https://associazionegege.github.io/spazio-gege/"/>
-        <id>https://associazionegege.github.io/spazio-gege/</id>
-        <media:content url="https://associazionegege.github.io/media/posts/1/3-4.jpg" medium="image" />
+        <link href="https://associazionegege.github.io/associazionegege/spazio-gege/"/>
+        <id>https://associazionegege.github.io/associazionegege/spazio-gege/</id>
+        <media:content url="https://associazionegege.github.io/associazionegege/media/posts/1/3-4.jpg" medium="image" />
 
         <updated>2023-01-02T21:51:35+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://associazionegege.github.io/media/posts/1/3-4.jpg" alt="" />
+                        <img src="https://associazionegege.github.io/associazionegege/media/posts/1/3-4.jpg" alt="" />
                     Spazio GEGE è un luogo abilmente gestito dedicato all'innovazione e alla sperimentazione:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://associazionegege.github.io/media/posts/1/3-4.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://associazionegege.github.io/associazionegege/media/posts/1/3-4.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span data-contrast="none">Spazio GEGE è un luogo abilmente gestito dedicato all'innovazione e alla sperimentazione: si pone come un laboratorio aperto e una risorsa per la musica e le arti elettroniche, offrendo strumenti hardware e software per la creazione e l'esplorazione creativa sul territorio Pesarese. La sua missione è quella di incoraggiare la ricerca e lo studio delle arti tecnologiche, ospitando due principali progetti:</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
 <ul>
 <li data-leveltext="▫" data-font="Courier New" data-listid="1" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1"><span data-contrast="none">un archivio e una ricerca sull'operato di Eugenio Giordani</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></li>
