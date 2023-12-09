@@ -3,12 +3,30 @@
     <title>Spazio Ge.Ge.</title>
     <link href="https://www.spaziogege.it/feed.xml" rel="self" />
     <link href="https://www.spaziogege.it" />
-    <updated>2023-12-08T18:28:51+01:00</updated>
+    <updated>2023-12-09T17:34:00+01:00</updated>
     <author>
         <name>Associazione Ge.Ge.</name>
     </author>
     <id>https://www.spaziogege.it</id>
 
+    <entry>
+        <title>Non c&#x27;è cosa più seria del delirio</title>
+        <author>
+            <name>Associazione Ge.Ge.</name>
+        </author>
+        <link href="https://www.spaziogege.it/non-ce-cosa-piu-seria-del-delirio/"/>
+        <id>https://www.spaziogege.it/non-ce-cosa-piu-seria-del-delirio/</id>
+        <media:content url="https://www.spaziogege.it/media/posts/5/WhatsApp-Image-2023-12-01-at-13.42.53.jpeg" medium="image" />
+
+        <updated>2023-12-09T17:34:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.spaziogege.it/media/posts/5/WhatsApp-Image-2023-12-01-at-13.42.53.jpeg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.spaziogege.it/media/posts/5/WhatsApp-Image-2023-12-01-at-13.42.53-2.jpeg" alt="Locandina evento" width="1122" height="2048" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.spaziogege.it/media/posts/5/responsive/WhatsApp-Image-2023-12-01-at-13.42.53-2-xs.webp 300w ,https://www.spaziogege.it/media/posts/5/responsive/WhatsApp-Image-2023-12-01-at-13.42.53-2-sm.webp 480w ,https://www.spaziogege.it/media/posts/5/responsive/WhatsApp-Image-2023-12-01-at-13.42.53-2-md.webp 768w ,https://www.spaziogege.it/media/posts/5/responsive/WhatsApp-Image-2023-12-01-at-13.42.53-2-lg.webp 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pin Hole</title>
         <author>

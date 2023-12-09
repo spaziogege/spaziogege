@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://www.spaziogege.it/non-ce-cosa-piu-seria-del-delirio/",
+            "url": "https://www.spaziogege.it/non-ce-cosa-piu-seria-del-delirio/",
+            "title": "Non c&#x27;è cosa più seria del delirio",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.spaziogege.it/media/posts/5/WhatsApp-Image-2023-12-01-at-13.42.53-2.jpeg\" alt=\"Locandina evento\" width=\"1122\" height=\"2048\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.spaziogege.it/media/posts/5/responsive/WhatsApp-Image-2023-12-01-at-13.42.53-2-xs.webp 300w ,https://www.spaziogege.it/media/posts/5/responsive/WhatsApp-Image-2023-12-01-at-13.42.53-2-sm.webp 480w ,https://www.spaziogege.it/media/posts/5/responsive/WhatsApp-Image-2023-12-01-at-13.42.53-2-md.webp 768w ,https://www.spaziogege.it/media/posts/5/responsive/WhatsApp-Image-2023-12-01-at-13.42.53-2-lg.webp 1024w\"></figure>",
+            "image": "https://www.spaziogege.it/media/posts/5/WhatsApp-Image-2023-12-01-at-13.42.53.jpeg",
+            "author": {
+                "name": "Associazione Ge.Ge."
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-09T17:31:05+01:00",
+            "date_modified": "2023-12-09T17:34:00+01:00"
+        },
+        {
             "id": "https://www.spaziogege.it/pin-hole/",
             "url": "https://www.spaziogege.it/pin-hole/",
             "title": "Pin Hole",
