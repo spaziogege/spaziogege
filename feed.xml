@@ -3,12 +3,135 @@
     <title>Spazio Ge.Ge.</title>
     <link href="https://www.spaziogege.it/feed.xml" rel="self" />
     <link href="https://www.spaziogege.it" />
-    <updated>2023-12-09T17:34:00+01:00</updated>
+    <updated>2024-01-21T15:32:52+01:00</updated>
     <author>
         <name>Associazione Ge.Ge.</name>
     </author>
     <id>https://www.spaziogege.it</id>
 
+    <entry>
+        <title>Workshop</title>
+        <author>
+            <name>Associazione Ge.Ge.</name>
+        </author>
+        <link href="https://www.spaziogege.it/workshops/"/>
+        <id>https://www.spaziogege.it/workshops/</id>
+        <media:content url="https://www.spaziogege.it/media/posts/8/0054-2.png" medium="image" />
+
+        <updated>2024-01-21T15:32:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.spaziogege.it/media/posts/8/0054-2.png" alt="" />
+                    Qui di seguito sono elencati i workshop che abbiamo curato e che&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.spaziogege.it/media/posts/8/0054-2.png" class="type:primaryImage" alt="" /></p>
+                <p>Qui di seguito sono elencati i workshop che abbiamo curato e che cureremo come associazione:</p>
+<ul>
+<li><a href="https://www.spaziogege.it/grande-eugenio/"></a><a href="https://www.spaziogege.it/grande-eugenio/">Grande Eugenio</a> (24/03/2024)</li>
+<li><a href="https://www.spaziogege.it/grande-eugenio-2/">Videomapping portatile con Raspberry PI</a> (24/03/2024)</li>
+</ul>
+<p>Seguici sui nostri social per rimanere sempre aggiornato:</p>
+<p><a href="https://www.facebook.com/spaziogege/">https://www.facebook.com/spaziogege/</a></p>
+<p><a href="https://www.instagram.com/spaziogege/">https://www.instagram.com/spaziogege/</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Videomapping portatile con Raspberry PI</title>
+        <author>
+            <name>Associazione Ge.Ge.</name>
+        </author>
+        <link href="https://www.spaziogege.it/grande-eugenio-2/"/>
+        <id>https://www.spaziogege.it/grande-eugenio-2/</id>
+
+        <updated>2024-01-21T15:32:33+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Workshop a cura di Luca Moroni Dove: Pesaro - più dettagli a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1"><i>Workshop a cura di <a href="https://esnho.github.io/" target="_blank" rel="noopener noreferrer">Luca Moroni</a></i></p>
+<p>Dove: <strong>Pesaro - più dettagli a breve</strong><br>Quando: <strong>24 Marzo 2024</strong><br>Durata: <strong>2h + libero scambio</strong></p>
+<p>Info:</p>
+<ul>
+<li>spaziogege [at] skiff.com</li>
+<li><a href="https://www.instagram.com/spaziogege/">https://www.instagram.com/spaziogege/</a></li>
+<li><a href="https://www.facebook.com/spaziogege/">https://www.facebook.com/spaziogege/</a></li>
+</ul>
+<p>Il workshop è rivolto a tutti coloro a chiunque voglia imparare delle tecniche di videomapping usando RaspberryPi e PiMapper, un software per videomapping adatto alle videoinstallazioni. Durante l'incontro si imparerà a conoscere ed usare PiMapper su delle superfici non convenzionali.</p>
+<p>Questo sistema permette di creare un setup minimo ed economico che può essere usato per delle videoinstallazioni, delle proiezioni portatili, loop video durante live e festival, installazioni museali.</p>
+<p>PiMapper è un software open source creato da Krisjanis Rijnieks, permette di leggere file video e immagini e di mapparle dove si preferisce.</p>
+<p>Durante il workshop si imparerà a:</p>
+<ul>
+<li>installare PiMapper</li>
+<li>creare backup del proprio PiMapper</li>
+<li>caricare video e immagini su PIMapper</li>
+<li>mappare delle superfici non parallele al proiettore</li>
+<li>mappare delle superfici non convenzionali</li>
+</ul>
+<p><strong>Per partecipare attivamente</strong> al workshop è necessario portare autonomamente:</p>
+<ul>
+<li>Raspberry PI 3 (Attenzione solo la versione 3 è supportata, non garantiamo il funzionamento su raspberry mini, pico, 4, 5, etc etc)</li>
+<li>Alimentazione Raspberry PI 3</li>
+<li>Mouse</li>
+<li>Tastiera</li>
+</ul>
+<p><br>Materiale <strong>opzionale</strong> ma caldamente consigliato:</p>
+<ul>
+<li>Schermo o proiettore</li>
+<li>Cavi HDMI</li>
+<li>Cavi VGA e adattatori HDMI2VGA</li>
+<li>Ciabatte e prolunghe</li>
+</ul>
+<p><br>L'associazione può mettere a disposizione degli schermi, dei proiettori e dei Raspberry PI, ma consigliamo vivamente di portare almeno uno schermo da collegare al Raspberry in autonomia. Un vecchio schermo VGA sarà sufficiente.</p>
+<p>Per favore, sappi che chiediamo una donazione in cambio del tempo e della conoscenza che condividiamo durante i workshop.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Grande Eugenio</title>
+        <author>
+            <name>Associazione Ge.Ge.</name>
+        </author>
+        <link href="https://www.spaziogege.it/grande-eugenio/"/>
+        <id>https://www.spaziogege.it/grande-eugenio/</id>
+
+        <updated>2024-01-21T15:32:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Intervento/Lezione a cura di Anthony Di Furia Dove: Pesaro - più dettagli&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1"><i>Intervento/Lezione a cura di <a href="http://www.anthonydifuria.com/" target="_blank" rel="noopener noreferrer">Anthony Di Furia</a></i></p>
+<p>Dove: <strong>Pesaro - più dettagli a breve</strong><br>Quando: <strong>24 Marzo 2024</strong><br>Durata: <strong>2h + libero scambio</strong></p>
+<p>Info:</p>
+<ul>
+<li>spaziogege [at] skiff.com</li>
+<li><a href="https://www.instagram.com/spaziogege/">https://www.instagram.com/spaziogege/</a></li>
+<li><a href="https://www.facebook.com/spaziogege/">https://www.facebook.com/spaziogege/</a></li>
+</ul>
+<p>Progettazione, sviluppo e implementazione di un generatore di eventi sonori (sintetizzatore) in Csound, installato su Raspberry Pi e controllato con Arduino Mega2560. Il generatore é dedicato ad Eugenio Giordani e al suo approccio specifico su Csound.</p>
+<p>Catena di connessione:</p>
+<ul>
+<li>Controlli Fisici (potenziometri)</li>
+<li>Arduino Mega2560 (programmazione scheda – invio dati di controllo tramite porta seriale USB)</li>
+<li>Raspberry Pi (Macchina)</li>
+<li>Csound (implementazione generatore – lettura dati di controllo tramite porta seriale)</li>
+</ul>
+<p>La prima fase di progettazione é dedicata alla valutazione del numero di controlli da porter utilizzare su Arduino mega2560, la seconda allo sviluppo del generatore in Csound ed infine alla connessione attraverso porta seriale.</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.spaziogege.it/media/posts/6//image-6.png" alt="" width="441" height="359" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.spaziogege.it/media/posts/6//responsive/image-6-xs.webp 300w ,https://www.spaziogege.it/media/posts/6//responsive/image-6-sm.webp 480w ,https://www.spaziogege.it/media/posts/6//responsive/image-6-md.webp 768w ,https://www.spaziogege.it/media/posts/6//responsive/image-6-lg.webp 1024w"></figure>
+<p>Per favore, sappi che chiediamo una donazione in cambio del tempo e della conoscenza che condividiamo durante i workshop.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Non c&#x27;è cosa più seria del delirio</title>
         <author>
@@ -109,7 +232,7 @@
         <id>https://www.spaziogege.it/spazio-gege/</id>
         <media:content url="https://www.spaziogege.it/media/posts/1/3-4.jpg" medium="image" />
 
-        <updated>2023-01-10T14:05:03+01:00</updated>
+        <updated>2024-01-21T15:28:07+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.spaziogege.it/media/posts/1/3-4.jpg" alt="" />

@@ -5,11 +5,54 @@
     "home_page_url": "https://www.spaziogege.it",
     "feed_url": "https://www.spaziogege.it/feed.json",
     "user_comment": "",
-    "icon": "https://www.spaziogege.it/media/website/logo-quadrato.jpg",
+    "icon": "https://www.spaziogege.it/media/website/logo-orizzontale_black.png",
     "author": {
         "name": "Associazione Ge.Ge."
     },
     "items": [
+        {
+            "id": "https://www.spaziogege.it/workshops/",
+            "url": "https://www.spaziogege.it/workshops/",
+            "title": "Workshop",
+            "summary": "Qui di seguito sono elencati i workshop che abbiamo curato e che&hellip;",
+            "content_html": "<p>Qui di seguito sono elencati i workshop che abbiamo curato e che cureremo come associazione:</p>\n<ul>\n<li><a href=\"https://www.spaziogege.it/grande-eugenio/\"></a><a href=\"https://www.spaziogege.it/grande-eugenio/\">Grande Eugenio</a> (24/03/2024)</li>\n<li><a href=\"https://www.spaziogege.it/grande-eugenio-2/\">Videomapping portatile con Raspberry PI</a> (24/03/2024)</li>\n</ul>\n<p>Seguici sui nostri social per rimanere sempre aggiornato:</p>\n<p><a href=\"https://www.facebook.com/spaziogege/\">https://www.facebook.com/spaziogege/</a></p>\n<p><a href=\"https://www.instagram.com/spaziogege/\">https://www.instagram.com/spaziogege/</a></p>\n<p> </p>",
+            "image": "https://www.spaziogege.it/media/posts/8/0054-2.png",
+            "author": {
+                "name": "Associazione Ge.Ge."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-21T15:09:55+01:00",
+            "date_modified": "2024-01-21T15:32:52+01:00"
+        },
+        {
+            "id": "https://www.spaziogege.it/grande-eugenio-2/",
+            "url": "https://www.spaziogege.it/grande-eugenio-2/",
+            "title": "Videomapping portatile con Raspberry PI",
+            "summary": "Workshop a cura di Luca Moroni Dove: Pesaro - più dettagli a&hellip;",
+            "content_html": "<p class=\"p1\"><i>Workshop a cura di <a href=\"https://esnho.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Luca Moroni</a></i></p>\n<p>Dove: <strong>Pesaro - più dettagli a breve</strong><br>Quando: <strong>24 Marzo 2024</strong><br>Durata: <strong>2h + libero scambio</strong></p>\n<p>Info:</p>\n<ul>\n<li>spaziogege [at] skiff.com</li>\n<li><a href=\"https://www.instagram.com/spaziogege/\">https://www.instagram.com/spaziogege/</a></li>\n<li><a href=\"https://www.facebook.com/spaziogege/\">https://www.facebook.com/spaziogege/</a></li>\n</ul>\n<p>Il workshop è rivolto a tutti coloro a chiunque voglia imparare delle tecniche di videomapping usando RaspberryPi e PiMapper, un software per videomapping adatto alle videoinstallazioni. Durante l'incontro si imparerà a conoscere ed usare PiMapper su delle superfici non convenzionali.</p>\n<p>Questo sistema permette di creare un setup minimo ed economico che può essere usato per delle videoinstallazioni, delle proiezioni portatili, loop video durante live e festival, installazioni museali.</p>\n<p>PiMapper è un software open source creato da Krisjanis Rijnieks, permette di leggere file video e immagini e di mapparle dove si preferisce.</p>\n<p>Durante il workshop si imparerà a:</p>\n<ul>\n<li>installare PiMapper</li>\n<li>creare backup del proprio PiMapper</li>\n<li>caricare video e immagini su PIMapper</li>\n<li>mappare delle superfici non parallele al proiettore</li>\n<li>mappare delle superfici non convenzionali</li>\n</ul>\n<p><strong>Per partecipare attivamente</strong> al workshop è necessario portare autonomamente:</p>\n<ul>\n<li>Raspberry PI 3 (Attenzione solo la versione 3 è supportata, non garantiamo il funzionamento su raspberry mini, pico, 4, 5, etc etc)</li>\n<li>Alimentazione Raspberry PI 3</li>\n<li>Mouse</li>\n<li>Tastiera</li>\n</ul>\n<p><br>Materiale <strong>opzionale</strong> ma caldamente consigliato:</p>\n<ul>\n<li>Schermo o proiettore</li>\n<li>Cavi HDMI</li>\n<li>Cavi VGA e adattatori HDMI2VGA</li>\n<li>Ciabatte e prolunghe</li>\n</ul>\n<p><br>L'associazione può mettere a disposizione degli schermi, dei proiettori e dei Raspberry PI, ma consigliamo vivamente di portare almeno uno schermo da collegare al Raspberry in autonomia. Un vecchio schermo VGA sarà sufficiente.</p>\n<p>Per favore, sappi che chiediamo una donazione in cambio del tempo e della conoscenza che condividiamo durante i workshop.</p>",
+            "author": {
+                "name": "Associazione Ge.Ge."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-21T14:59:59+01:00",
+            "date_modified": "2024-01-21T15:32:33+01:00"
+        },
+        {
+            "id": "https://www.spaziogege.it/grande-eugenio/",
+            "url": "https://www.spaziogege.it/grande-eugenio/",
+            "title": "Grande Eugenio",
+            "summary": "Intervento/Lezione a cura di Anthony Di Furia Dove: Pesaro - più dettagli&hellip;",
+            "content_html": "<p class=\"p1\"><i>Intervento/Lezione a cura di <a href=\"http://www.anthonydifuria.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Anthony Di Furia</a></i></p>\n<p>Dove: <strong>Pesaro - più dettagli a breve</strong><br>Quando: <strong>24 Marzo 2024</strong><br>Durata: <strong>2h + libero scambio</strong></p>\n<p>Info:</p>\n<ul>\n<li>spaziogege [at] skiff.com</li>\n<li><a href=\"https://www.instagram.com/spaziogege/\">https://www.instagram.com/spaziogege/</a></li>\n<li><a href=\"https://www.facebook.com/spaziogege/\">https://www.facebook.com/spaziogege/</a></li>\n</ul>\n<p>Progettazione, sviluppo e implementazione di un generatore di eventi sonori (sintetizzatore) in Csound, installato su Raspberry Pi e controllato con Arduino Mega2560. Il generatore é dedicato ad Eugenio Giordani e al suo approccio specifico su Csound.</p>\n<p>Catena di connessione:</p>\n<ul>\n<li>Controlli Fisici (potenziometri)</li>\n<li>Arduino Mega2560 (programmazione scheda – invio dati di controllo tramite porta seriale USB)</li>\n<li>Raspberry Pi (Macchina)</li>\n<li>Csound (implementazione generatore – lettura dati di controllo tramite porta seriale)</li>\n</ul>\n<p>La prima fase di progettazione é dedicata alla valutazione del numero di controlli da porter utilizzare su Arduino mega2560, la seconda allo sviluppo del generatore in Csound ed infine alla connessione attraverso porta seriale.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.spaziogege.it/media/posts/6//image-6.png\" alt=\"\" width=\"441\" height=\"359\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.spaziogege.it/media/posts/6//responsive/image-6-xs.webp 300w ,https://www.spaziogege.it/media/posts/6//responsive/image-6-sm.webp 480w ,https://www.spaziogege.it/media/posts/6//responsive/image-6-md.webp 768w ,https://www.spaziogege.it/media/posts/6//responsive/image-6-lg.webp 1024w\"></figure>\n<p>Per favore, sappi che chiediamo una donazione in cambio del tempo e della conoscenza che condividiamo durante i workshop.</p>",
+            "author": {
+                "name": "Associazione Ge.Ge."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-21T14:39:00+01:00",
+            "date_modified": "2024-01-21T15:32:12+01:00"
+        },
         {
             "id": "https://www.spaziogege.it/non-ce-cosa-piu-seria-del-delirio/",
             "url": "https://www.spaziogege.it/non-ce-cosa-piu-seria-del-delirio/",
@@ -67,7 +110,7 @@
             "tags": [
             ],
             "date_published": "2023-01-02T16:07:28+01:00",
-            "date_modified": "2023-01-10T14:05:03+01:00"
+            "date_modified": "2024-01-21T15:28:07+01:00"
         }
     ]
 }
