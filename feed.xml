@@ -3,7 +3,7 @@
     <title>Spazio Ge.Ge.</title>
     <link href="https://www.spaziogege.it/feed.xml" rel="self" />
     <link href="https://www.spaziogege.it" />
-    <updated>2024-02-14T18:14:04+01:00</updated>
+    <updated>2024-02-14T18:15:35+01:00</updated>
     <author>
         <name>Associazione Ge.Ge.</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.spaziogege.it/workshops/</id>
         <media:content url="https://www.spaziogege.it/media/posts/8/0054-2.png" medium="image" />
 
-        <updated>2024-02-14T18:14:04+01:00</updated>
+        <updated>2024-02-14T18:15:35+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.spaziogege.it/media/posts/8/0054-2.png" alt="" />
@@ -34,7 +34,7 @@
 <li><a href="https://www.spaziogege.it/videomapping-portatile-raspberry/">Videomapping portatile con Raspberry PI</a> (23/03/2024)</li>
 </ul>
 <p>Seguici sui nostri account social per rimanere sempre aggiornato</p>
-<figure class="post__image align-center"><img  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://www.spaziogege.it/media/posts/8/instagram.svg" alt="" width="55" height="55"></figure>  <figure class="post__image align-center"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://www.spaziogege.it/media/posts/8/facebook.svg" alt="" width="53" height="53"></figure>
+<figure class="post__image align-center"><a href="https://www.instagram.com/spaziogege/" target="_blank" rel="nofollow noopener noreferrer"><img  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://www.spaziogege.it/media/posts/8/instagram.svg" alt="" width="55" height="55"></figure></a>  <a href="https://www.facebook.com/spaziogege/" target="_blank" rel="nofollow noopener noreferrer"><figure class="post__image align-center"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://www.spaziogege.it/media/posts/8/facebook.svg" alt="" width="53" height="53"></figure></a></p>
             ]]>
         </content>
     </entry>
